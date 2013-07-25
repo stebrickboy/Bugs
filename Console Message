@@ -1,0 +1,93 @@
+Evans Weiss is joining the Infected
+No is joining the Infected
+spirited away is joining the Survivors
+hanabi is joining the Survivors
+
+
+Queued Material System: DISABLED!
+Stopping All Sounds...
+Stopping: Channel: 4 player\charger\voice\idle\charger_lurk_02.wav
+Stopping: Channel:10 )items\itempickup.wav
+Stopping: Channel:71 ambient\random_amb_sounds\cicada_short_01.wav
+Stopping: Channel:38 player\boomer\voice\idle\female_boomer_lurk_02.wav
+Stopping: Channel:73 @#music\stmusic\youhadbetterpray.wav
+Stopping: Channel:64 ambient\overhead\plane3.wav
+Stopping: Channel:70 ambient\random_amb_sounds\hopper_fly_01.wav
+Stopping: Channel:66 ambient\ambience\bug_loop.wav
+Stopping: Channel:67 ambient\random_amb_sfx\dist_explosion_02.wav
+Stopping: Channel:65 ambient\ambience\crucial_empty_street_wind_loop.wav
+Stopping: Channel:76 ambient\spacial_loops\mediumfire_loop.wav
+Stopping: Channel:75 (ambient\ambience\cicada_loop.wav
+Stopping: Channel:79 ambient\spacial_loops\mediumfire_loop.wav
+Stopping: Channel:69 ambient\random_amb_sounds\hopper_fly_01.wav
+Stopping: Channel:68 ambient\random_amb_sounds\thinwindgust_04.wav
+Stopping: Channel:18 npc\infected\action\rageat\male\rage_at_victim25.wav
+Stopping: Channel:72 weapons\pistol\gunother\pistol_slideback_1.wav
+Stopping: Channel:74 weapons\pistol\gunother\pistol_slideforward_1.wav
+Starting sound '@#music\stmusic\youhadbetterpray.wav' while system disabled.
+Starting sound '@#music\cpmusic\prayfordeath.wav' while system disabled.
+Starting sound '@#music\cpmusic\prayfordeath.wav' while system disabled.
+Starting sound 'ambient\random_amb_sounds\dist_gun_05.wav' while system disabled.
+Starting sound 'ambient\random_amb_sounds\rand_leaves_blowby_01.wav' while system disabled.
+Received wrong spawn count 15 when at 14
+Commencing connection retry to public(my wan ip)
+failed processing
+ Dumping messages for channel CLIENT(my wan ip) 0x091498E0
+Header bits 96, flags == 33
+1 messages
+0 -----------------------
+net_SignonState: type( 7 ) group ( 13 ) size ( 68 bytes ), startbit 6 end bit 230
+   net_SignonState: state 7, count 15
+RAW(net_SignonState) start
+net_SignonState  >>  .d[S........ ........... ac645b53 01000000 e0981409 2000f502 07000000 0f000000   
+net_SignonState  >>  ........................ 00000000 00000000 00000000 00000000 00000000 00000000   
+net_SignonState  >>  .... ...............     e0eecf05 20000000 00000000 0b000000 e0eecf05            
+RAW(net_SignonState) end
+Raw
+PKT  >>  +...<...!./.I........... 2bba0100 3cb40100 21b62f00 490700c7 c1030000 00000000   
+PKT  >>  .........XL[....]....    00000000 c0020000 c0584c5b cc17da1b 5d191b80 80         
+Stopping All Sounds...
+Starting sound '@#music\cpmusic\prayfordeath.wav' while system disabled.
+[INTROS] Team is frozen
+Bad server address public("my wan ip")
+Stopping All Sounds...
+Loading: 2679.33 seconds
+BinkOpen( c:\program files\steam\steamapps\common\left 4 dead 2\left4dead2\media\l4d2_background04.bik )
+Binding uncached material "vgui/left4dead2logo", artificially incrementing refcount
+Binding uncached material "vgui/menu_mode_versus", artificially incrementing refcount
+Binding uncached material "vgui/menu_mode_border", artificially incrementing refcount
+Binding uncached material "vgui/menu_mode_survival", artificially incrementing refcount
+Binding uncached material "vgui_white", artificially incrementing refcount
+Binding uncached material "__fontpage", artificially incrementing refcount
+Binding uncached material "vgui/menu_mode_scavenge", artificially incrementing refcount
+Binding uncached material "vgui/menu_mode_singleplayer", artificially incrementing refcount
+Binding uncached material "vgui/menu_mode_campaign", artificially incrementing refcount
+Binding uncached material "vgui/menu_mode_realism", artificially incrementing refcount
+Binding uncached material "vgui/arrow_left", artificially incrementing refcount
+Binding uncached material "vgui/arrow_right", artificially incrementing refcount
+Binding uncached material "__fontpage", artificially incrementing refcount
+Binding uncached material "__fontpage", artificially incrementing refcount
+Binding uncached material "vgui/hud/800corner1", artificially incrementing refcount
+Binding uncached material "vgui/hud/800corner2", artificially incrementing refcount
+Binding uncached material "vgui/hud/800corner4", artificially incrementing refcount
+Binding uncached material "vgui/hud/800corner3", artificially incrementing refcount
+Binding uncached material "__fontpage", artificially incrementing refcount
+Binding uncached material "__fontpage", artificially incrementing refcount
+Binding uncached material "vgui/servers/icon_robotron", artificially incrementing refcount
+Binding uncached material "vgui/servers/icon_password_column", artificially incrementing refcount
+Binding uncached material "vgui/servers/icon_robotron_column", artificially incrementing refcount
+Binding uncached material "vgui/white", artificially incrementing refcount
+Binding uncached material "__fontpage", artificially incrementing refcount
+Binding uncached material "vgui/menu_backgroud_top", artificially incrementing refcount
+Binding uncached material "vgui/menu_backgroud_bottom", artificially incrementing refcount
+Binding uncached material "__fontpage", artificially incrementing refcount
+Binding uncached material "vgui/icon_lan", artificially incrementing refcount
+Binding uncached material "__vgui_texture_0", artificially incrementing refcount
+Binding uncached material "__fontpage", artificially incrementing refcount
+Binding uncached material "__fontpage", artificially incrementing refcount
+Binding uncached material "__fontpage", artificially incrementing refcount
+Binding uncached material "__fontpage", artificially incrementing refcount
+Binding uncached material "__fontpage", artificially incrementing refcount
+Binding uncached material "__fontpage", artificially incrementing refcount
+
+
