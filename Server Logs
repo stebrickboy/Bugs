@@ -1,0 +1,110 @@
+L 07/25/2013 - 17:54:44: -------- Mapchange to c5m3_cemetery --------
+L 07/25/2013 - 17:54:45: [confoglcompmod.smx] [ReqMatch] New map, executing match config...
+L 07/25/2013 - 17:54:45: [confoglcompmod.smx] [ReqMatch] Match Load
+L 07/25/2013 - 17:54:45: [confoglcompmod.smx] [Configs] Executing custom cfg file addons/sourcemod/../../cfg/cfgogl/promod/confogl.cfg
+L 07/25/2013 - 17:54:45: [confoglcompmod.smx] [ReqMatch] Match config executed
+L 07/25/2013 - 17:54:45: [customvotes.smx] Warning: vote definition for "epilimic's 1v1" defines 1 parameters but only uses 0.
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_fog_spawn") (value "1")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "versus")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_hibernate_when_empty") (value "0")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "100")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "100")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "100")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "100")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "45000")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "45000")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "1000")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "1.0")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_splitpacket_maxrate") (value "22500")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "0")
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "2")
+L 07/25/2013 - 17:54:46: [confoglcompmod.smx] [Confogl] ClientSettings: Attempt to track new cvar mat_hdr_level during a match!
+L 07/25/2013 - 17:54:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "1000")
+L 07/25/2013 - 17:54:47: [confoglcompmod.smx] [ER] Starting RoundStart Event
+L 07/25/2013 - 17:54:47: [confoglcompmod.smx] [ER] Dealing with an instance of trigger_hurt
+L 07/25/2013 - 17:54:47: [confoglcompmod.smx] [ER] Dealing with an instance of logic_director_query
+L 07/25/2013 - 17:54:47: [confoglcompmod.smx] [ER] Dealing with an instance of logic_director_query
+L 07/25/2013 - 17:54:47: [confoglcompmod.smx] [ER] Dealing with an instance of trigger_hurt
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Resetting g_iSaferoomCount and Enumerating and eliminating spawns...
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item pain pills (0), with limit 4
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Saving spawn #0 at 3584.84 5346.00 48.28
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item pipe bombs (2), with limit 0
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing spawn
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item pain pills (0), with limit 4
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Saving spawn #1 at 2997.43 2866.62 176.28
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item molotovs (3), with limit 0
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing spawn
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item pain pills (0), with limit 4
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Saving spawn #2 at 5532.71 8196.06 82.71
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item pain pills (0), with limit 4
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Saving spawn #3 at 3552.00 1092.00 68.37
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item adrenaline shots (1), with limit 0
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing spawn
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item molotovs (3), with limit 0
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing spawn
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item adrenaline shots (1), with limit 0
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing spawn
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item molotovs (3), with limit 0
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing spawn
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item pain pills (0), with limit 4
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Saving spawn #4 at 3568.84 836.06 64.53
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item pain pills (0), with limit 4
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Saving spawn #5 at 3486.12 651.71 66.24
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item pipe bombs (2), with limit 0
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing spawn
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item molotovs (3), with limit 0
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing spawn
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item adrenaline shots (1), with limit 0
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing spawn
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item adrenaline shots (1), with limit 0
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing spawn
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item pipe bombs (2), with limit 0
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing spawn
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item molotovs (3), with limit 0
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing spawn
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item molotovs (3), with limit 0
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing spawn
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item pain pills (0), with limit 4
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Saving spawn #6 at 6995.71 -4272.96 160.09
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item pain pills (0), with limit 4
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Saving spawn #7 at 4455.00 2928.00 63.00
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item pain pills (0), with limit 4
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Saving spawn #8 at 6292.00 -2639.00 472.46
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Found an instance of item pain pills (0), with limit 4
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Saving spawn #9 at 6186.00 -2738.00 487.59
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing randomly chosen pain pills (0) #0
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing randomly chosen pain pills (0) #7
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing randomly chosen pain pills (0) #5
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing randomly chosen pain pills (0) #1
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing randomly chosen pain pills (0) #1
+L 07/25/2013 - 17:54:48: [confoglcompmod.smx] [IT] Killing randomly chosen pain pills (0) #4
+L 07/25/2013 - 17:54:48: [l4d2_saferoom_item_remove.smx] Removed 4 saferoom item(s) (start: 0; end: 4).
+L 07/25/2013 - 17:57:08: [confoglcompmod.smx] [BS] Tracking this tank spawn. Currently, 0 tanks
+L 07/25/2013 - 17:57:08: [confoglcompmod.smx] [BS] Saving tank at 4025.000000 5287.500000 0.031250
+L 07/25/2013 - 18:01:47: [confoglcompmod.smx] [GT] SpawnMob(50), HordesDisabled: 0 TimerDuration: 3600.000000 Minimum: 3600.000000 Remaining: 3592.088867
+L 07/25/2013 - 18:05:09: [confoglcompmod.smx] [ER] Starting RoundStart Event
+L 07/25/2013 - 18:05:09: [confoglcompmod.smx] [ER] Dealing with an instance of trigger_hurt
+L 07/25/2013 - 18:05:09: [confoglcompmod.smx] [ER] Dealing with an instance of logic_director_query
+L 07/25/2013 - 18:05:09: [confoglcompmod.smx] [ER] Dealing with an instance of logic_director_query
+L 07/25/2013 - 18:05:09: [confoglcompmod.smx] [ER] Dealing with an instance of trigger_hurt
+L 07/25/2013 - 18:05:09: [confoglcompmod.smx] [IT] Spawning an instance of item pain_pills (0, wepid 15), number 0, at 2997.43 2866.62 176.28
+L 07/25/2013 - 18:05:09: [confoglcompmod.smx] [IT] Spawning an instance of item pain_pills (0, wepid 15), number 1, at 3568.84 836.06 64.53
+L 07/25/2013 - 18:05:09: [confoglcompmod.smx] [IT] Spawning an instance of item pain_pills (0, wepid 15), number 2, at 3486.12 651.71 66.24
+L 07/25/2013 - 18:05:09: [confoglcompmod.smx] [IT] Spawning an instance of item pain_pills (0, wepid 15), number 3, at 4455.00 2928.00 63.00
+L 07/25/2013 - 18:05:09: [l4d2_saferoom_item_remove.smx] Removed 4 saferoom item(s) (start: 0; end: 4).
+L 07/25/2013 - 18:06:50: [confoglcompmod.smx] [BS] Tracking this tank spawn. Currently, 0 tanks
+L 07/25/2013 - 18:06:50: [confoglcompmod.smx] [BS] Teleporting tank to tank at 4025.000000 5287.500000 0.031250
+L 07/25/2013 - 18:08:43: -------- Mapchange to c5m4_quarter --------
+L 07/25/2013 - 18:08:45: [confoglcompmod.smx] [ReqMatch] New map, executing match config...
+L 07/25/2013 - 18:08:45: [confoglcompmod.smx] [ReqMatch] Match Load
+L 07/25/2013 - 18:08:45: [confoglcompmod.smx] [Configs] Executing custom cfg file addons/sourcemod/../../cfg/cfgogl/promod/confogl.cfg
+L 07/25/2013 - 18:08:45: [confoglcompmod.smx] [ReqMatch] Match config executed
+L 07/25/2013 - 18:08:45: [customvotes.smx] Warning: vote definition for "epilimic's 1v1" defines 1 parameters but only uses 0.
+L 07/25/2013 - 18:08:45: -------- Mapchange to c1m1_hotel --------
+L 07/25/2013 - 18:08:47: [confoglcompmod.smx] [ReqMatch] New map, executing match config...
+L 07/25/2013 - 18:08:47: [confoglcompmod.smx] [ReqMatch] Match Load
+L 07/25/2013 - 18:08:47: [confoglcompmod.smx] [Configs] Executing custom cfg file addons/sourcemod/../../cfg/cfgogl/promod/confogl.cfg
+L 07/25/2013 - 18:08:47: [confoglcompmod.smx] [ReqMatch] Match config executed
+L 07/25/2013 - 18:08:47: [customvotes.smx] Warning: vote definition for "epilimic's 1v1" defines 1 parameters but only uses 0.
